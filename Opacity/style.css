@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url(./img/medusa.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height:832px;
+    display: flex;
+}
+.box1{
+    width: 293px;
+    height: 513px;
+    background-color:rgba(219, 197, 0, 0.50);;
+    opacity: 0.8;
+    margin-left: 15px;
+    margin-top: 10px;
+    
+}
+.box2{
+    width: 293px;
+height: 513px;
+background-color: rgba(219, 197, 0, 0.40);
+opacity: 0.8;
+margin-left: 15px;
+    margin-top: 10px;
+
+}
+.box3{
+    width: 293px;
+height: 513px;
+background-color: rgba(219, 197, 0, 0.70);
+opacity: 0.8;
+margin-left: 15px;
+    margin-top: 10px;
+
+}
+.box4{
+    width: 293px;
+height: 513px;
+background-color: rgba(219, 197, 0, 0.35);
+opacity: 0.8;
+margin-left: 15px;
+    margin-top: 10px;
+
+}
